@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/alicia-resume/static/css/main.1f35abb3.css",
-    "main.js": "/alicia-resume/static/js/main.3a321cb9.js",
+    "main.css": "/alicia-resume/static/css/main.fbf07177.css",
+    "main.js": "/alicia-resume/static/js/main.0388fe78.js",
     "index.html": "/alicia-resume/index.html",
-    "main.1f35abb3.css.map": "/alicia-resume/static/css/main.1f35abb3.css.map",
-    "main.3a321cb9.js.map": "/alicia-resume/static/js/main.3a321cb9.js.map"
+    "main.fbf07177.css.map": "/alicia-resume/static/css/main.fbf07177.css.map",
+    "main.0388fe78.js.map": "/alicia-resume/static/js/main.0388fe78.js.map"
   },
   "entrypoints": [
-    "static/css/main.1f35abb3.css",
-    "static/js/main.3a321cb9.js"
+    "static/css/main.fbf07177.css",
+    "static/js/main.0388fe78.js"
   ]
 }
