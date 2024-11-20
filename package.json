@@ -1,7 +1,7 @@
 {
   "name": "my-resume",
   "version": "0.1.0",
-  "homepage": "https://github.com/AliPea/alicia-resume.git",
+  "homepage": "git@github.com:AliPea/alicia-resume.git",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^2.3.0",
